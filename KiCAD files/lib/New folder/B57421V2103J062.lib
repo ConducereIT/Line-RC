@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model B57421V2103J062
+#/12192822/1388097/2.50/2/2/Thermistor
+DEF B57421V2103J062 RT 0 30 Y Y 1 F N
+F0 "RT" 550 250 50 H V L CNN
+F1 "B57421V2103J062" 550 150 50 H V L CNN
+F2 "THRMC2012X130N" 550 50 50 H I L CNN
+F3 "https://product.tdk.com/system/files/dam/doc/product/sensor/ntc/chip-ntc-thermistor/data_sheet/50/db/ntc/ntc_smd_standard_series_0805.pdf" 550 -50 50 H I L CNN
+F4 "Chip NTC Thermistors (Sensor), Resistance (at 25?C)=10k?, Resistance Tolerance (at 25?C)=?3%" 550 -150 50 H I L CNN "Description"
+F5 "1.3" 550 -250 50 H I L CNN "Height"
+F6 "" 550 -350 50 H I L CNN "TME Electronic Components Part Number"
+F7 "" 550 -450 50 H I L CNN "TME Electronic Components Price/Stock"
+F8 "TDK" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "B57421V2103J062" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 3 0 1 6 220 -80 280 -80 420 80 N
+ENDDRAW
+ENDDEF
+#
+#End Library

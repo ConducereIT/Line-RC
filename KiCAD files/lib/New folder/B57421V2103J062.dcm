@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B57421V2103J062
+D Chip NTC Thermistors (Sensor), Resistance (at 25?C)=10k?, Resistance Tolerance (at 25?C)=?3%
+K
+F https://product.tdk.com/system/files/dam/doc/product/sensor/ntc/chip-ntc-thermistor/data_sheet/50/db/ntc/ntc_smd_standard_series_0805.pdf
+$ENDCMP
+#
+#End Doc Library
