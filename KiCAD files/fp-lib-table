@@ -19,4 +19,5 @@
 	(lib (name "DRV8213RTER ") (type "KiCad") (uri "${KIPRJMOD}/lib/DRV8213RTER .pretty") (options "") (descr ""))
 	(lib (name "DRV8213RTER ") (type "KiCad") (uri "${KIPRJMOD}/lib/DRV8213RTER .pretty") (options "") (descr ""))
 	(lib (name "New folder") (type "KiCad") (uri "${KIPRJMOD}/lib/New folder.pretty") (options "") (descr ""))
+	(lib (name "RZ7899") (type "KiCad") (uri "${KIPRJMOD}/lib/RZ7899.pretty") (options "") (descr ""))
 )
