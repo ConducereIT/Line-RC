@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model VCNT2020
+#/897322/1388097/2.50/4/4/Integrated Circuit
+DEF VCNT2020 IC 0 30 Y Y 1 F N
+F0 "IC" 650 300 50 H V L CNN
+F1 "VCNT2020" 650 200 50 H V L CNN
+F2 "VCNT2020" 650 100 50 H I L CNN
+F3 "https://www.vishay.com/docs/84285/vcnt2020.pdf" 650 0 50 H I L CNN
+F4 "Optical Switches, Reflective, Phototransistor Output Ref Optical Sensor Transtr Output 940nm" 650 -100 50 H I L CNN "Description"
+F5 "0" 650 -200 50 H I L CNN "Height"
+F6 "78-VCNT2020" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VCNT2020?qs=A6JNR%252BY%2FHHeERL3sVKpQTg%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Vishay" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "VCNT2020" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X E 1 0 0 200 R 50 50 0 0 P
+X C 2 0 -100 200 R 50 50 0 0 P
+X A 3 800 0 200 L 50 50 0 0 P
+X K 4 800 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
