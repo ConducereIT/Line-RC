@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VCNT2020
+D Optical Switches, Reflective, Phototransistor Output Ref Optical Sensor Transtr Output 940nm
+K
+F https://www.vishay.com/docs/84285/vcnt2020.pdf
+$ENDCMP
+#
+#End Doc Library
