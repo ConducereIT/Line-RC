@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP FFC3B07-08-T
-D 8 Position FFC, FPC Connector Contacts, Bottom 0.039" (1.00mm) Surface Mount, Right Angle -25C ~ 85C,0.4A,50V
-K
-F https://www.tme.eu/ro/details/ffc3b07-08-t/conectori-ffc-fpc-pas-1-00mm/gct/
-$ENDCMP
-#
-#End Doc Library
