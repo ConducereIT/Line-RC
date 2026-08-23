@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS563240DDCR
+D 17-V, 3-A, 1.4-MHz synchronous step-down voltage regulator
+K
+F http://www.ti.com/lit/gpn/TPS563240
+$ENDCMP
+#
+#End Doc Library
