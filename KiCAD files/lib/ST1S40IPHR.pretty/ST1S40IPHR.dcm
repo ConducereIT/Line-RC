@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST1S40IPHR
+D Switching Voltage Regulators 3A DC Step-Down 4.0V to 18V 850 kHz
+K
+F https://www.st.com/resource/en/datasheet/st1s40.pdf
+$ENDCMP
+#
+#End Doc Library
