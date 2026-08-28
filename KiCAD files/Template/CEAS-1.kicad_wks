@@ -99,9 +99,9 @@
 		(pos 72.3592 4.3982)
 		(comment "Paper format name")
 	)
-	(tbtext "Title: ${TITLE}"
+	(tbtext "${TITLE}\n"
 		(name "")
-		(pos 74.0902 20.5882)
+		(pos 74.09 20.588)
 		(font
 			(size 2 2) bold italic)
 	)
@@ -116,9 +116,9 @@
 		(start 2.0022 2.0072)
 		(end 97.9022 24.5572)
 	)
-	(tbtext "Pag: ${COMMENT3}\n\n"
+	(tbtext "${COMMENT4}\n"
 		(name "")
-		(pos 16.6022 8.1572)
+		(pos 14.9272 9.2822)
 		(font bold italic)
 	)
 	(tbtext "Proiectant: ${COMMENT1}\n"
